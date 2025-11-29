@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-dotenv = "*"
+google-genai = "*"
+pillow = "*"
+pydantic = "*"
+pandas = "*"
+langchain = "*"
+langchain-google-genai = "*"
+streamlit = "*"
+
+[dev-packages]
